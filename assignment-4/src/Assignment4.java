@@ -102,7 +102,7 @@ public class Assignment4 {
      * Given a string s, find the longest palindromic substring in s. You may assume that the maximum length of s is 1000.
      * Input: "babad" Output: "bab" Note: "aba" is also a valid answer.
      */
-	//score 1.5/2 wrong answer 
+	//score 2/2 
 	public static String longestPalindrome(String s) {
 		//TODO
 		char[] arr = s.toCharArray();
